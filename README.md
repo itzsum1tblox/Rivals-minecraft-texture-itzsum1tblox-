@@ -1,2 +1,3 @@
-# Rivals-minecraft-texture-itzsum1tblox-
+# Rivals-minecraft-texture-itzsum1tblox-pack.json
+
 Hlo
